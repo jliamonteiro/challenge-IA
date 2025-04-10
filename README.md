@@ -41,5 +41,3 @@ O modelo visa acelerar o processo de diagnóstico em situações emergenciais ou
 
 ---
 
-> 📁 Este arquivo faz parte do projeto **Descomplica Auto**.  
-> 🔗 Repositório principal: [](#)
